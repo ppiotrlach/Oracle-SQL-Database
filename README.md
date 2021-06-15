@@ -1,7 +1,7 @@
 <h5 style="text-align: right;">Wrocław, 25.05.2021r. </h5>
 
 # BAZY DANYCH 
-## INEK00027P
+
 ## Projekt 
 
 <br>
@@ -9,22 +9,16 @@
 | Wydział Elektroniki | Kierunek: Informatyka techniczna |
 |---------------------|----------|
 | Grupa zajęciowa: TP Wt15.15                 | Semestr 2020/21 LATO   |
-| Łach Piotr           | Nr indeksu: 256761       |
-| Jakub Szpak [lider]           | Nr indeksu: 252782       |
-| Nr grupy projektowej          | 30      |
-| Prowadzący:         | mgr inż. Karol Puchała      |
+| Łach Piotr           |       |
+| Jakub Szpak           |     |
 
 <br>
 
 ## Temat: Galeria sztuki
 
 <br>
-<br>
 
 
-#### Ocena:      
-#### Punkty:
-#### Data: 
 
 <div style="page-break-after: always;"></div>
 
@@ -71,10 +65,10 @@ Ostatnim aktorem jest klient, który pełni rolę obserwatora. Jego jedyną moż
 
 ## Diagram przypadków użycia
 
-<div style="text-align:center"><img src="diagram1.png" /></div>
+<div style="text-align:center"><img src="images/diagram1.png" /></div>
 
 
-<div style="text-align:center"><img src="diagram2.png" /></div>
+<div style="text-align:center"><img src="images/diagram2.png" /></div>
 
 <br><br><br>
 
@@ -83,7 +77,7 @@ Ostatnim aktorem jest klient, który pełni rolę obserwatora. Jego jedyną moż
 ## Diagram ERD w notacji Martina
 
 
-<div style="text-align:center"><img src="erd.png" /></div>
+<div style="text-align:center"><img src="images/erd.png" /></div>
 
 
 
@@ -97,7 +91,7 @@ W diagramie ERD wyróżniamy 4 typy połączeń:
 - ONE AND ONLY ONE - jedno i tylko jedno powiązanie,
 - ZERO OR MORE - zero lub więcej powiązań.
 
-<div style="text-align:center"><img src="erd_mean.png" style="width:700px;"/></div>
+<div style="text-align:center"><img src="images/erd_mean.png" style="width:700px;"/></div>
 
 
 #### Opis wybranych relacji:
