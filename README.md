@@ -8,9 +8,7 @@
 
 | Wydział Elektroniki | Kierunek: Informatyka techniczna |
 |---------------------|----------|
-| Grupa zajęciowa: TP Wt15.15                 | Semestr 2020/21 LATO   |
-| Łach Piotr           |       |
-| Jakub Szpak           |     |
+| Łach Piotr           | Jakub Szpak         |
 
 <br>
 
